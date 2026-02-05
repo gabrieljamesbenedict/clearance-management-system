@@ -1,3 +1,8 @@
+/**
+ * CORS configuration.
+ * Allows port 3000 to connect (most of React apps)
+ */
+
 package com.porado.clearance_monitoring_system.backend.security;
 
 import org.springframework.context.annotation.Bean;

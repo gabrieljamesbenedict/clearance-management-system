@@ -1,3 +1,8 @@
+/**
+ * Represents the Clearance entity in the ORM (Object-Relational Mapping).
+ * Generates a database table inside of Postgres with the following configurations.
+ */
+
 package com.porado.clearance_monitoring_system.backend.model;
 
 import jakarta.persistence.*;

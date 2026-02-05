@@ -1,3 +1,8 @@
+/**
+ * Exposes REST API for Clearance.
+ * Communicates with ClearanceService.
+ */
+
 package com.porado.clearance_monitoring_system.backend.controller;
 
 import com.porado.clearance_monitoring_system.backend.model.Clearance;

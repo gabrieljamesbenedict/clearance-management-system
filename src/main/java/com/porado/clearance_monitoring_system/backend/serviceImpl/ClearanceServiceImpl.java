@@ -1,3 +1,7 @@
+/**
+ * Service interface class implementation of ClearanceService
+ */
+
 package com.porado.clearance_monitoring_system.backend.serviceImpl;
 
 import com.porado.clearance_monitoring_system.backend.model.Clearance;

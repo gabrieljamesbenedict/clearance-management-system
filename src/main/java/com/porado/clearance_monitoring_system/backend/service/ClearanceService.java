@@ -1,3 +1,8 @@
+/**
+ * Defines business rules in code form.
+ * Currently, has basic REST api implementing CRUD
+ */
+
 package com.porado.clearance_monitoring_system.backend.service;
 
 import com.porado.clearance_monitoring_system.backend.model.Clearance;

@@ -1,3 +1,7 @@
+/**
+ * Main class
+ */
+
 package com.porado.clearance_monitoring_system.backend;
 
 import org.springframework.boot.SpringApplication;
