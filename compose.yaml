@@ -4,6 +4,6 @@ services:
     environment:
       - 'POSTGRES_DB=clearance-db'
       - 'POSTGRES_PASSWORD=secret'
-      - 'POSTGRES_USER=user'
+      - 'POSTGRES_USER=myuser'
     ports:
       - '5432:5432'
